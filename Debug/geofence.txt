@@ -1,0 +1,12 @@
+type: circle
+restrictions: red
+point: 48.147763;11.563454
+radius: 50km
+type: rectangle
+restrictions: green
+left_up_corner: 52.683043;7.745361
+right_down_corner: 50.764259;12.843018
+type: circle
+restrictions: green
+point: 52.521966;13.408899
+radius: 70km
